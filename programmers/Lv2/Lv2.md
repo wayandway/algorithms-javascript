@@ -1,3 +1,4 @@
 # Lv.2
 
 [최대값과 최솟값](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12939.js) - **12939** <br>
+[숫자의 표현](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12924.js) - **12924** <br>
