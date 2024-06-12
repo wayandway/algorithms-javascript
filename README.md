@@ -4,8 +4,7 @@
 
 ## BOJ
 
-[구현]([고양이](https://github.com/wayandway/algorithms-javascript/blob/main/boj/구현/구현.md) <br/>
-)
+[구현](https://github.com/wayandway/algorithms-javascript/blob/main/boj/구현/구현.md) <br/>
 
 ## Programmers
 
