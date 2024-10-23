@@ -24,10 +24,38 @@
     - thisArg (선택): callback 함수 내에서 사용될 this 값
     - ex) `numbers.filter(num => num % 2 === 0)`
 
+- ```js
+  array.reduce(callback(accumulator, currentValue, index, array), initialValue);
+  ```
+  - callback: 배열의 각 요소에 대해 실행되는 함수
+    - accumulator: 누적된 결과를 저장하는 변수
+    - currentValue: 현재 순회 중인 배열의 요소
+    - index (선택): 현재 순회 중인 요소의 인덱스
+    - array (선택): 호출한 원본 배열
+
+  - initialValue (선택): accumulator의 초기값. 주어지지 않으면 배열의 첫 번째 요소가 초기값으로 설정
+
+  - 예시) 숫자 배열 평균값 구하기
+      ```js
+      function solution(numbers) {
+          var answer = numbers.reduce((a,b) => a+b, 0) / numbers.length;
+          return answer;
+      }
+      ```
+
+ - ```js
+    array.splice(start, deleteCount, item1, item2, ...);
+   ```
+    - `start` : 배열에서 수정(추가/제거) 시작 지점의 인덱스
+    - `deleteCount` : 배열에서 제거할 요소의 개수 → 0이면 아무 것도 삭제되지 않고, 새로운 요소만 추가
+    - `item1, item2, ...` : 추가할 새로운 요소들 (선택사항) → 생략하면 제거만 함.
+    - 파괴적 메소드 (원본 배열 수정)
+
 
 <br/>
 
 ### String
+
 
 - ```js
   string.split(separator, limit);
@@ -43,11 +71,17 @@
   - 빈 문자열("")을 구분자로 사용하면 문자열을 하나씩 나눠 배열로 반환
 
 
+
 - ```js
   const str = "Hello, world!";
   console.log(str.slice(7, 12));  // "world"
   ```
-  - slice(7, 12): 인덱스 7부터 12 이전까지 추출
+  - `slice(7, 12)`: 인덱스 7부터 12 이전까지 추출
+  - 비파괴적 메소드
+
+
+
+
 
 <br/>
 
@@ -63,26 +97,9 @@ console.log(currentYear);  // 예: 2024
 
 <br/>
 
-### reduce()
 
-```js
-array.reduce(callback(accumulator, currentValue, index, array), initialValue);
-```
-- callback: 배열의 각 요소에 대해 실행되는 함수
-  - accumulator: 누적된 결과를 저장하는 변수
-  - currentValue: 현재 순회 중인 배열의 요소
-  - index (선택): 현재 순회 중인 요소의 인덱스
-  - array (선택): 호출한 원본 배열
 
-- initialValue (선택): accumulator의 초기값. 주어지지 않으면 배열의 첫 번째 요소가 초기값으로 설정
 
-- 예시) 숫자 배열 평균값 구하기
-    ```js
-    function solution(numbers) {
-        var answer = numbers.reduce((a,b) => a+b, 0) / numbers.length;
-        return answer;
-    }
-    ```
 
 <br/>
 
