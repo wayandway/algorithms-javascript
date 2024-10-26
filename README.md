@@ -13,5 +13,7 @@
 <br/>
 
 ## 핸드북
+- [알고리즘 정리](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/algorithms/algorithms.md) 
 - [JavaScript 메소드 정리](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/methods.md) 
-- [알아두면 좋을 스킬들](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/skills.md) 
+- [알아두면 좋을 스킬들](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/skills.md)
+
