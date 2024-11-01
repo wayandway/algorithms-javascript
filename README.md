@@ -12,6 +12,11 @@
 
 <br/>
 
+## Softeer
+- [현대 소프티어 문제 정리](https://github.com/wayandway/algorithms-javascript/blob/main/softeer/softeer.md)
+
+<br/>
+
 ## 핸드북
 - [알고리즘 정리](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/algorithms/algorithms.md) 
 - [JavaScript 메소드 정리](https://github.com/wayandway/algorithms-javascript/blob/main/handbook/methods.md) 
