@@ -8,6 +8,16 @@
 ### `Math.trunc()`
 양수와 음수에 상관없이 정수 부분만 남김
 
+### `Math.abs(x)`
+- x는 절댓값을 구하려는 숫자
+- 반환 값은 x의 절댓값
+
+### `Math.max(...arr)`
+- 배열 arr에서의 최댓값 반환
+
+### `Math.min(...arr)`
+- 배열 arr에서의 최솟값 반환
+
 
 <br/>
 
@@ -61,7 +71,34 @@
     - `deleteCount` : 배열에서 제거할 요소의 개수 → 0이면 아무 것도 삭제되지 않고, 새로운 요소만 추가
     - `item1, item2, ...` : 추가할 새로운 요소들 (선택사항) → 생략하면 제거만 함.
     - 파괴적 메소드 (원본 배열 수정)
+    
+### `push()`, `pop()`
+`push()`
+- 배열의 끝에 새로운 요소를 추가
 
+- 배열의 새로운 길이를 반환
+
+- ```js
+  const stack = [];
+  stack.push(10);    // [10]
+  stack.push(20);    // [10, 20]
+  stack.push(30);    // [10, 20, 30]
+
+  console.log(stack); // [10, 20, 30]
+  ```
+
+`pop()`
+- 배열의 마지막 요소를 제거
+- 제거된 요소를 반환
+- 만약 배열이 비어 있다면 undefined를 반환
+
+- ```js
+  const stack = [10, 20, 30];
+  const lastItem = stack.pop();  // 30 (제거된 요소)
+
+  console.log(lastItem); // 30
+  console.log(stack);    // [10, 20]
+  ```
 
 <br/>
 
