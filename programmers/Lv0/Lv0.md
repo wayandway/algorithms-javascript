@@ -6,3 +6,4 @@
 `순환 배열`[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>
 [주사위 개수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120845.js) - **120845** <br>
 [소인수분해](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120852.js) - **120852** <br>
+`해시`[영어가 싫어요](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120894.js) - **120894** <br>
