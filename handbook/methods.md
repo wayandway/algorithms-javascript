@@ -42,6 +42,29 @@
     - thisArg (선택): callback 함수 내에서 사용될 this 값
     - ex) `numbers.filter(num => num % 2 === 0)`
 
+### `find()`
+- find() 메소드는 배열에서 주어진 조건에 맞는 첫 번째 요소를 반환하며, 조건에 맞는 요소가 없으면 undefined를 반환한다.
+
+- ```js
+  array.find(callback(element[, index[, array]])[, thisArg])
+  ```
+
+1. callback
+  - 각 배열 요소에 대해 실행할 함수.
+  - 반환값이 true인 첫 번째 요소를 find()가 반환한다.
+  - callback 함수는 다음 인수를 받는다.
+    - element (필수): 현재 처리 중인 요소
+    - index (선택): 현재 처리 중인 요소의 인덱스
+    - array (선택): find()가 호출된 배열
+2. thisArg (선택)
+  - callback 함수 내부에서 this로 사용할 값
+
+3. 반환값
+- 조건에 맞는 첫 번째 배열 요소
+- 조건에 맞는 요소가 없으면 undefined 반환
+
+### `indexOf()`
+배열 또는 문자열에서 주어진 값이 처음으로 등장하는 위치(인덱스)를 반환한다. 값이 없으면 -1을 반환한다.
 
 ### `reduce()`
 - ```js
