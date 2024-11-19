@@ -32,6 +32,7 @@
 원본 배열의 순서를 반대로 뒤집음
 
 ### `filter()`
+배열에서 주어진 조건을 만족하는 모든 요소를 모아 새로운 배열로 반환하며, 원본 배열은 변경되지 않는다.
 - ```js
   array.filter(callback(element, index, array), thisArg);
   ```
@@ -150,6 +151,29 @@
   - `slice(7, 12)`: 인덱스 7부터 12 이전까지 추출
   - 비파괴적 메소드
 
+### `charAt()`
+- 특정 인덱스의 문자를 반환
+
+### `substring()`
+- 문자열의 특정 부분을 추출
+
+- ```js 
+  const str = "hello";
+  console.log(str.substring(1, 4)); // 출력: "ell"
+  ```
+
+### `.toUpperCase()` / `.toLowerCase()`
+
+- 문자열을 대문자 또는 소문자로 변환
+
+### `replace()`
+
+- 특정 문자열을 다른 문자열로 대체
+
+- ```js 
+  const str = "hello world";
+  console.log(str.replace("world", "JavaScript")); // 출력: "hello JavaScript"
+  ```
 
 
 <br/>
