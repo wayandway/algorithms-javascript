@@ -175,6 +175,19 @@
   console.log(str.replace("world", "JavaScript")); // 출력: "hello JavaScript"
   ```
 
+### `repeat()`
+- 주어진 문자열을 특정 횟수만큼 반복하여 새로운 문자열을 생성
+
+- ```js 
+   string.repeat(count)
+  ```
+  - count: 반복할 횟수 (0 이상 2³¹ - 1 이하의 정수)
+     - 정수 값이어야 하며, 소수일 경우 소수점 이하를 잘라냄
+     - count 값이 0이면 빈 문자열을 반환
+     - count 값이 음수이거나 무한대일 경우 RangeError를 발생시킴
+
+  - 리턴값 : 주어진 문자열을 count 횟수만큼 반복한 새로운 문자열
+
 
 <br/>
 
