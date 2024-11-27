@@ -8,9 +8,14 @@
 [직사각형 넓이 구하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120860.js) - **120860** <br>
 
 
+### 수학
+[소인수분해](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120852.js) - **120852** <br>
+[직사각형 넓이 구하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120860.js) - **120860** <br>
+[삼각형의 완성 조건 (2)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120868.js) - **120868** <br>
 
-### 순환 배열
-[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>
+### 배열
+`순환 배열`[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>
+`방향 배열`[안전지대](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120866.js) - **120866** <br>
 
 ### 스택
 [문자열 계산하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120902.js) - **120902** <br>
