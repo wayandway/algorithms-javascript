@@ -1,13 +1,13 @@
 ## Array
-### `sort()`
+### sort()
 - `sort((a, b) => a - b)` : 오름차순 정렬
 
 - `sort((a, b) => a.localeCompare(b))` : 알파벳 오름차순 정렬
 
-### `reverse()`
+### reverse()
 원본 배열의 순서를 반대로 뒤집음
 
-### `filter()`
+### filter()
 배열에서 주어진 조건을 만족하는 모든 요소를 모아 새로운 배열로 반환하며, 원본 배열은 변경되지 않는다.
 - ```js
   array.filter(callback(element, index, array), thisArg);
@@ -19,7 +19,7 @@
     - thisArg (선택): callback 함수 내에서 사용될 this 값
     - ex) `numbers.filter(num => num % 2 === 0)`
 
-### `find()`
+### find()
 - find() 메소드는 배열에서 주어진 조건에 맞는 첫 번째 요소를 반환하며, 조건에 맞는 요소가 없으면 undefined를 반환한다.
 
 - ```js
@@ -40,10 +40,10 @@
 - 조건에 맞는 첫 번째 배열 요소
 - 조건에 맞는 요소가 없으면 undefined 반환
 
-### `indexOf()`
+### indexOf()
 배열 또는 문자열에서 주어진 값이 처음으로 등장하는 위치(인덱스)를 반환한다. 값이 없으면 -1을 반환한다.
 
-### `reduce()`
+### reduce()
 - ```js
   array.reduce(callback(accumulator, currentValue, index, array), initialValue);
   ```
@@ -63,7 +63,8 @@
       }
       ```
 
-### `splice()`
+### splice()
+- 배열 내 중간에 있는 데이터 추가/삭제 시 유용
  - ```js
     array.splice(start, deleteCount, item1, item2, ...);
    ```
@@ -72,7 +73,7 @@
     - `item1, item2, ...` : 추가할 새로운 요소들 (선택사항) → 생략하면 제거만 함.
     - 파괴적 메소드 (원본 배열 수정)
     
-### `push()`, `pop()`
+### push(), pop()
 `push()`
 - 배열의 끝에 새로운 요소를 추가
 
@@ -99,3 +100,26 @@
   console.log(lastItem); // 30
   console.log(stack);    // [10, 20]
   ```
+
+### unshift(), shift()
+`unshift`
+- 배열의 앞쪽에 하나 이상의 요소를 추가하고, 배열의 새로운 길이를 반환
+
+- ```js
+  array.unshift(element1, element2, ..., elementN)
+  ```
+
+- 배열의 시작 부분에 요소를 추가하며 기존 요소들의 인덱스를 뒤로 밀어낸다. (시간 복잡도 O(n))
+- 원본 배열이 수정된다.
+
+
+`shift`
+- 배열의 첫 번째 요소를 제거하고, 제거된 요소를 반환
+
+- ```js
+  array.shift()
+  ```
+
+- 파라미터 없음
+- 배열의 시작 부분에 있는 요소를 제거하면서, 나머지 요소들의 인덱스를 앞으로 당긴다. (시간 복잡도 O(n))
+- 원본 배열이 수정된다.
