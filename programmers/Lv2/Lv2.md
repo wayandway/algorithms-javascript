@@ -14,6 +14,7 @@
 
 ### 스택/큐
 [올바른 괄호](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12939.js) - **12939** <br>
+[괄호 회전하기]](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/76502.js) - **76502** <br>
 
 ### 정렬
 `완전 탐색`[카펫](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/42842.js) - **42842** <br>
