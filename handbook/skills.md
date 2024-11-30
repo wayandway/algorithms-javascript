@@ -49,3 +49,22 @@ function getDivisors(n) {
 ```
 
 
+
+### 소인수 분해 
+```js
+function primeFactorization(n) {
+    const factors = [];
+    let divisor = 2;
+
+    while (n >= 2) {
+        // 나누어떨어지면 해당 수를 소인수로 추가
+        while (n % divisor === 0) {
+            factors.push(divisor);
+            n /= divisor;
+        }
+        divisor++;
+    }
+
+    return factors;
+}
+```
