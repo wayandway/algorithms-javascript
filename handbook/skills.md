@@ -68,3 +68,33 @@ function primeFactorization(n) {
     return factors;
 }
 ```
+
+### 조합
+```js
+function getCombinations(arr, r) {
+    const results = [];
+
+    // Base case: r이 0이면 빈 배열 반환
+    if (r === 0) return [[]];
+
+    // Base case: 배열이 비어 있으면 빈 결과 반환
+    if (arr.length === 0) return [];
+
+    const [first, ...rest] = arr;
+
+    // 첫 번째 원소를 선택한 경우
+    const combinationsWithFirst = getCombinations(rest, r - 1).map(comb => [first, ...comb]);
+
+    // 첫 번째 원소를 선택하지 않은 경우
+    const combinationsWithoutFirst = getCombinations(rest, r);
+
+    // 결과 합치기
+    return [...combinationsWithFirst, ...combinationsWithoutFirst];
+}
+
+// 테스트
+const arr = [1, 2, 3, 4];
+const r = 2;
+console.log(getCombinations(arr, r));
+// 출력: [[1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4]]
+```
