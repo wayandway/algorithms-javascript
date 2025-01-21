@@ -12,11 +12,17 @@
 [소인수분해](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120852.js) - **120852** <br>
 [직사각형 넓이 구하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120860.js) - **120860** <br>
 [삼각형의 완성 조건 (2)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120868.js) - **120868** <br>
+[치킨 쿠폰](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120884.js) - **120884** <br>
+[k의 개수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120887.js) - **120887** <br>
 
-### 배열
+
+### 배열/문자열
 `순환 배열`[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>
 `방향 배열`[안전지대](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120866.js) - **120866** <br>
 `정렬`[특이한 정렬](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120880.js) - **120880** <br>
+`정렬`[등수 매기기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120882.js) - **120882** <br>
+`문자열`[옹알이(1)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120956.js) - **120956** <br>
+[로그인 성공?](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120883.js) - **120883** <br>
 
 ### 스택
 [문자열 계산하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120902.js) - **120902** <br>
