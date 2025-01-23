@@ -14,6 +14,7 @@
 [삼각형의 완성 조건 (2)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120868.js) - **120868** <br>
 [치킨 쿠폰](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120884.js) - **120884** <br>
 [k의 개수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120887.js) - **120887** <br>
+[이진수 더하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120885.js) - **120885** <br>
 
 
 ### 배열/문자열
@@ -31,3 +32,6 @@
 `해시`[영어가 싫어요](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120894.js) - **120894** <br>
 `해시`[한 번만 등장한 문자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120896.js) - **120896** <br>
 [캐릭터의 좌표](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120861.js) - **120861** <br>
+
+### 시뮬레이션
+[A로 B만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120886.js) - **120886** <br>
