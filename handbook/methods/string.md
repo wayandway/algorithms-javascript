@@ -88,7 +88,7 @@
 
 ---
 
-### **2. `startsWith()`**
+### **`startsWith()`**
 문자열이 특정 **접두사**(prefix)로 시작하는지 확인
 
 - **문법**
@@ -112,8 +112,8 @@
 
 ---
 
-### **3. `endsWith()`**
-문자열이 특정 **접미사(suffix)**로 끝나는지 확인
+### **`endsWith()`**
+문자열이 특정 **접미사**(suffix)로 끝나는지 확인
 
 - **문법**
   ```javascript
@@ -134,3 +134,8 @@
   console.log(str.endsWith("Hello", 5)); // true (길이를 5로 제한, "Hello"로 끝남)
   ```
 
+---
+### `toString`
+`toString(radix)`은 숫자를 주어진 진법(radix)의 문자열로 변환
+
+예) `5.toString(2)`는 10진수 5를 **이진수 "101"** 로 변환
