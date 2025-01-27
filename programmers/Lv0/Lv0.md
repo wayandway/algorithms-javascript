@@ -15,7 +15,7 @@
 [치킨 쿠폰](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120884.js) - **120884** <br>
 [k의 개수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120887.js) - **120887** <br>
 [이진수 더하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120885.js) - **120885** <br>
-
+[다음에 올 숫자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120924.js) - **120924** <br>
 
 ### 배열/문자열
 `순환 배열`[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>
@@ -35,3 +35,4 @@
 
 ### 시뮬레이션
 [A로 B만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120886.js) - **120886** <br>
+[문자열 밀기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120921.js) - **120921** <br>
