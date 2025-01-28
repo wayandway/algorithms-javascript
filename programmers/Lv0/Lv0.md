@@ -18,6 +18,7 @@
 [다음에 올 숫자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120924.js) - **120924** <br>
 [콜라츠 수열 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181919.js) - **181919** <br>
 [문자열 정수의 합](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181849.js) - **181849** <br>
+[배열의 원소만큼 추가하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181861.js) - **181861** <br>
 
 ### 배열/문자열
 `순환 배열`[공 던지기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120843.js) - **120843** <br>

@@ -51,6 +51,18 @@
   console.log(str.replace("world", "JavaScript")); // 출력: "hello JavaScript"
   ```
 ---
+### `replaceAll()`
+
+- 주어진 패턴에 맞는 모든 부분을 새로운 값으로 교체
+
+- ```js 
+  str.replaceAll(pattern, replacement);
+  ```
+  - `pattern`: 교체할 부분을 지정하는 패턴 (문자열 또는 정규식)
+    - 문자열인 경우, 정확히 일치하는 부분만 교체
+    - 정규식인 경우, g 플래그가 자동으로 적용되어 모든 매칭을 교체
+  - `replacement`: 교체할 새로운 값. 문자열로 지정되며, 매칭된 부분이 이 값으로 바뀐다.
+---
 ### `repeat()`
 - 주어진 문자열을 특정 횟수만큼 반복하여 새로운 문자열을 생성
 

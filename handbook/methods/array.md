@@ -123,3 +123,16 @@
 - 파라미터 없음
 - 배열의 시작 부분에 있는 요소를 제거하면서, 나머지 요소들의 인덱스를 앞으로 당긴다. (시간 복잡도 O(n))
 - 원본 배열이 수정된다.
+
+### flatMap()
+`flatMap`
+- 매핑 (Mapping): 배열의 각 요소에 대해 주어진 콜백 함수를 실행하여 새로운 배열을 생성
+- 평탄화 (Flattening): 배열 안에 배열이 있을 경우, 이를 하나의 배열로 평탄화 (배열의 깊이는 1단계만 평탄화)
+- ```js
+  arr.flatMap(callback(currentValue, index, array))
+  ```
+  - `callback(currentValue, index, array)`: 배열의 각 요소에 대해 실행되는 함수
+  - `currentValue`: 현재 처리 중인 요소
+  - `index`: 현재 요소의 인덱스
+  - `array`: 원본 배열
+- 반환값 : 새로운 배열을 반환하며, 평탄화된 형태로 리턴
