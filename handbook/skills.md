@@ -6,6 +6,8 @@ const array = String(age).split('').map(Number)
 // 14 -> "14" -> ["1", "4"] -> [1, 4]
 ```
 
+---
+
 ### n! (팩토리얼)
 ```js
 // 재귀 방식 (작은 입력)
@@ -22,6 +24,8 @@ const factorial = (num) => {
 }
 ```
 
+---
+
 ### 최대공약수, 최소공배수
 ```js
 // 최대공약수(GCD) - 유클리드 알고리즘
@@ -30,6 +34,8 @@ const gcd = (a, b) => (b === 0 ? a : gcd(b, a % b))
 // 최소공배수(LCM)
 const lcm = (a * b) / gcd(a, b)
 ```
+
+---
 
 ### 약수 구하기
 ```js
@@ -48,7 +54,7 @@ function getDivisors(n) {
 }
 ```
 
-
+---
 
 ### 소인수 분해 
 ```js
@@ -68,6 +74,8 @@ function primeFactorization(n) {
     return factors;
 }
 ```
+
+---
 
 ### 조합
 ```js
@@ -97,4 +105,15 @@ const arr = [1, 2, 3, 4];
 const r = 2;
 console.log(getCombinations(arr, r));
 // 출력: [[1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4]]
+```
+
+---
+
+### 공백으로 구분하기
+
+```js
+function solution(my_string) {
+//  return my_string.split(/\s+/); // 정규식 활용
+    return my_string.split(' ');
+}
 ```
