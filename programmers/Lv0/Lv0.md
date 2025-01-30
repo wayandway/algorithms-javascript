@@ -29,6 +29,7 @@
 `문자열`[옹알이(1)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120956.js) - **120956** <br>
 [로그인 성공?](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120883.js) - **120883** <br>
 [배열 만들기2](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181921.js) - **181921** <br>
+[문자열 여러 번 뒤집기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181913.js) - **181913** <br>
 
 ### 스택
 [문자열 계산하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120902.js) - **120902** <br>
@@ -37,6 +38,7 @@
 `해시`[영어가 싫어요](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120894.js) - **120894** <br>
 `해시`[한 번만 등장한 문자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120896.js) - **120896** <br>
 [캐릭터의 좌표](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120861.js) - **120861** <br>
+`해시맵`[주사위 게임3](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181916.js) - **181916** <br>
 
 ### 시뮬레이션
 [A로 B만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120886.js) - **120886** <br>
