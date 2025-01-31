@@ -58,6 +58,17 @@
   - `searchElement`: 찾고자 하는 요소
   - `fromIndex`(옵션): 탐색을 시작할 인덱스 (기본값은 0). 음수일 경우, 배열의 끝에서부터 역방향으로 계산하여 시작 인덱스를 설정 
 
+---
+
+### lastIndexOf()
+배열 또는 문자열에서 주어진 값이 마지막으로 등장하는 위치(인덱스)를 반환한다.<br/>
+값이 없으면 -1을 반환한다.
+
+- ```js
+  arr.lastIndexOf(searchValue, fromIndex)
+  ```
+  - `searcValue`(필수): 찾고자 하는 요소
+  - `fromIndex`(옵션): 탐색을 시작할 인덱스 (기본값은 0). 기본값은 `str.length - 1`로, 문자열 끝에서부터 검색
 
 ---
 
