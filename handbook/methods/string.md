@@ -151,3 +151,31 @@
 `toString(radix)`은 숫자를 주어진 진법(radix)의 문자열로 변환
 
 예) `5.toString(2)`는 10진수 5를 **이진수 "101"** 로 변환
+
+---
+### `localeCompare()`
+문자열을 사전순으로 비교
+
+- ```javascript
+  string1.localeCompare(string2)
+  ```
+  - `string1`이 `string2`보다 앞에 있으면 → `-1` 반환
+  - `string1`이 `string2`와 같으면 → `0` 반환
+  - `string1`이 `string2`보다 뒤에 있으면 → `1` 반환
+
+- `sort()` 메소드와 함께 사용해 문자열 정렬 구현 가능
+  ```javascript
+  const arr = ["banana", "apple", "cherry"];
+  arr.sort((a, b) => a.localeCompare(b));  // 오름차순 정렬 : ["apple", "banana", "cherry"]
+  arr.sort((a, b) => b.localeCompare(a)); // 내림차순 정렬 : ["cherry", "banana", "apple"]
+  ```
+
+---
+### `padStart()`
+문자열 앞쪽에 지정한 문자로 채워 길이를 맞춤
+
+- ```javascript
+  string.padStart(targetLength, padString)
+  ```
+  - `targetLength` : 최종적으로 맞추고 싶은 문자열의 길이 (필수)
+  - `padString` : 앞쪽에 채울 문자열 (선택, 기본값은 " ", 즉 공백)
