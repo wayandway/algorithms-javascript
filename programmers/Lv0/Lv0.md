@@ -31,6 +31,7 @@
 [로그인 성공?](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120883.js) - **120883** <br>
 [배열 만들기2](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181921.js) - **181921** <br>
 [문자열 여러 번 뒤집기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181913.js) - **181913** <br>
+[전국 대회 선발 고사](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/181851.js) - **181851** <br>
 
 ### 스택
 [문자열 계산하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv0/120902.js) - **120902** <br>
