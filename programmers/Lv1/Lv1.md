@@ -9,6 +9,8 @@
 
 ### 수학
 [콜라 문제](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/132267.js) - **132267** <br>
+`에라토스테네스의 체`[소수 찾기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12921.js) - **12921** <br>
+`조합`[소수 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12977.js) - **12977** <br>
 
 ### 배열
 [실패율](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42889.js) - **42889** <br>
@@ -16,7 +18,10 @@
 ### 문자열
 [시저 암호](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12926.js) - **12926** <br>
 [이상한 문자 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12930.js) - **12930** <br>
+[문자열](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/133499.js) - **133499** <br>
+[[1차] 다트 게임](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/17682.js) - **17682** <br>
 
+---
 ### 정렬
 [K번째수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42748.js) - **42748** <br>
 
@@ -32,3 +37,6 @@
 ### 해시
 [가장 가까운 같은 글자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/142086.js) - **142086** <br>
 [숫자 문자열과 영단어](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/81301.js) - **81301** <br>
+
+### 완전 탐색
+[모의고사](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42840.js) - **42840** <br>
