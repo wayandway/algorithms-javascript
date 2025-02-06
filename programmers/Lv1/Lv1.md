@@ -12,8 +12,14 @@
 `에라토스테네스의 체`[소수 찾기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12921.js) - **12921** <br>
 `조합`[소수 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12977.js) - **12977** <br>
 
-### 배열
+### 조건/배열/객체
 [실패율](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42889.js) - **42889** <br>
+[성격 유형 검사하기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/118666.js) - **118666** <br>
+[키패드 누르기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/67256.js) - **67256** <br>
+[개인정보 수집 유효기간](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/150370.js) - **150370** <br>
+[공원 산책](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/172928.js) - **172928** <br>
+[신고 결과 받기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/92334.js) - **92334** <br>
+[동영상 재생기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/340212.js) - **340212** <br>
 
 ### 문자열
 [시저 암호](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12926.js) - **12926** <br>
@@ -27,16 +33,23 @@
 
 ### 스택/큐
 [같은 숫자는 싫어](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12906.js) - **12906** <br>
+[햄버거 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/133502.js) - **133502** <br>
+[크레인 인형뽑기 게임](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/64061.js) - **64061** <br>
 
 ### 힙
 [명예의 전당(1)](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/138477.js) - **138477** <br>
 
 ### 그리디
 [예산](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12982.js) - **12982** <br>
+[체육복](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42862.js) - **42862** <br>
+
 
 ### 해시
 [가장 가까운 같은 글자](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/142086.js) - **142086** <br>
 [숫자 문자열과 영단어](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/81301.js) - **81301** <br>
+[완주하지 못한 선수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42576.js) - **42576** <br>
+[달리기 경주](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/178871.js) - **178871** <br>
+
 
 ### 완전 탐색
 [모의고사](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42840.js) - **42840** <br>
