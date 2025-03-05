@@ -3,6 +3,7 @@
 [숫자의 표현](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12924.js) - **12924** <br>
 [최솟값 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12941.js) - **12941** <br>
 [JadenCase 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12951.js) - **12951** <br>
+[연속 부분 수열 합의 개수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/131701.js) - **131701** <br>
 
 ### 수학
 [행렬의 곱셈](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12949.js) - **12949** <br>
