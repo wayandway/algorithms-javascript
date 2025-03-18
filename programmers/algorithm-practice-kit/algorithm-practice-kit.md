@@ -25,7 +25,7 @@
 ### 완전 탐색
 `Lv.1` [H-Index](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/86491.js) - **86491** <br>
 `Lv.2` [모의고사](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42840.js) - **42840** <br>
-
+`Lv.2` [소수 찾기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42839.js) - **42839** <br>
 
 ### 탐욕법 (Greedy)
 `Lv.1` [체육복](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42862.js) - **42862** <br>
