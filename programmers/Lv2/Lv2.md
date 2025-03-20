@@ -20,9 +20,6 @@
 [귤 고르기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/138476.js) - **138476** <br>
 [영어 끝말잇기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12981.js) - **12981** <br>
 
-### 정렬
-`완전 탐색`[카펫](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/42842.js) - **42842** <br>
-
 ### 동적 계획법 (DP)
 [피보나치 수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12945.js) - **12945** <br>
 [멀리 뛰기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/12914.js) - **12914** <br>
