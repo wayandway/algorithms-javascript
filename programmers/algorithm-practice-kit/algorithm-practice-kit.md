@@ -28,6 +28,7 @@
 `Lv.2` [소수 찾기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42839.js) - **42839** <br>
 `Lv.2` [카펫](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42842.js) - **42842** <br>
 `Lv.2` [피로도](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/87946.js)(+백트래킹) - **87946** <br>
+`Lv.2` [전력망을 둘로 나누기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/86971.js)(BFS) - **86971** <br>
 `Lv.2` [모음 사전](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/84512.js)(DFS) - **84512** <br>
 
 ### 탐욕법 (Greedy)
