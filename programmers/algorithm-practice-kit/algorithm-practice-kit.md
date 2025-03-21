@@ -28,6 +28,7 @@
 `Lv.2` [소수 찾기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42839.js) - **42839** <br>
 `Lv.2` [카펫](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42842.js) - **42842** <br>
 `Lv.2` [피로도](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/87946.js)(+백트래킹) - **87946** <br>
+`Lv.2` [모음 사전](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/84512.js)(DFS) - **84512** <br>
 
 ### 탐욕법 (Greedy)
 `Lv.1` [체육복](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42862.js) - **42862** <br>
@@ -40,8 +41,11 @@
 `Lv.2` [타겟 넘버](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/43165.js)(DFS) - **43165** <br>
 `Lv.2` [게임 맵 최단거리](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42584.js) - **42584** <br>
 `Lv.3` [네트워크](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/43162.js)(DFS) - **43162** <br>
+`Lv.3` [단어 변환](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/43163.js)(BFS) - **43163** <br>
+`Lv.3` [여행 경로](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/43164.js)(DFS) - **43164** <br>
 
 ### 이분 탐색
 
 ### 그래프
 `Lv.3` [가장 먼 노드](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/49189.js)(BFS) - **49189** <br>
+`Lv.3` [순위](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/49191.js)(플로이드-워셜) - **49191** <br>
