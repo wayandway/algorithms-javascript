@@ -6,6 +6,8 @@
 [최대공약수와 최소공배수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12940.js) - **12940** <br>
 [하샤드 수](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12947.js) - **12947** <br>
 [핸드폰 번호 가리기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12948.js) - **12948** <br>
+[유연근무제](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/388351.js) - **388351** <br>
+[택배상자 꺼내기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/389478.js) - **389478** <br>
 
 ### 수학
 [콜라 문제](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/132267.js) - **132267** <br>
