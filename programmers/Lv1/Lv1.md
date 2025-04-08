@@ -8,6 +8,7 @@
 [핸드폰 번호 가리기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/12948.js) - **12948** <br>
 [유연근무제](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/388351.js) - **388351** <br>
 [택배상자 꺼내기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/389478.js) - **389478** <br>
+[가장 많이 받은 선물](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/258712.js) - **258712** <br>
 
 ### 수학
 [콜라 문제](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/132267.js) - **132267** <br>
