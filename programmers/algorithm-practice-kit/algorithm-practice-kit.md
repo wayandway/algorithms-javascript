@@ -33,7 +33,9 @@
 
 ### 탐욕법 (Greedy)
 `Lv.1` [체육복](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv1/42862.js) - **42862** <br>
+`Lv.2` [조이스틱](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/42860.js) - **42860** <br>
 `Lv.2` [구명 보트](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/42885.js) - **42885** <br>
+`Lv.2` [큰 수 만들기](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/Lv2/42883.js) - **42883** <br>
 
 ### 동적계획법 (Dynamic Programming)
 `Lv.3` [등굣길](https://github.com/wayandway/algorithms-javascript/blob/main/programmers/algorithm-practice-kit/42898.js) - **42898** <br>
